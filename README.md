@@ -5,14 +5,12 @@
 ## PLAYER INFO
 
 ```
-╔═══════════════════════════════════════════╗
-║  NAME ........ VISHWA                              
-║  CLASS ....... DEVELOPER                           
-║  WEAPON ...... C# + UNITY + ASP.NET                
-║  EXPERIENCE .. 2+ YEARS (PROFESSIONAL)             
-║  QUEST ....... LEVELING UP DSA SKILLS              
-║  BUILDS ...... GAMES | TOOLS | SOFTWARE            
-╚═══════════════════════════════════════════╝
+║  NAME ........ VISHWA ....................
+║  CLASS ....... DEVELOPER .................
+║  WEAPON ...... C# + UNITY + ASP.NET ......
+║  EXPERIENCE .. 2+ YEARS (PROFESSIONAL) ...
+║  QUEST ....... LEVELING UP DSA SKILLS ....
+║  BUILDS ...... GAMES | TOOLS | SOFTWARE ..
 ```
 
 ## SKILL TREE

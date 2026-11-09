@@ -5,14 +5,14 @@
 ## PLAYER INFO
 
 ```
-╔════════════════════════════════════════════════════╗
-║  NAME ........ VISHWA                              ║
-║  CLASS ....... DEVELOPER                           ║
-║  WEAPON ...... C# + UNITY + ASP.NET                ║
-║  EXPERIENCE .. 2+ YEARS (PROFESSIONAL)             ║
-║  QUEST ....... LEVELING UP DSA SKILLS              ║
-║  BUILDS ...... GAMES | TOOLS | SOFTWARE            ║
-╚════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════╗
+║  NAME ........ VISHWA                              
+║  CLASS ....... DEVELOPER                           
+║  WEAPON ...... C# + UNITY + ASP.NET                
+║  EXPERIENCE .. 2+ YEARS (PROFESSIONAL)             
+║  QUEST ....... LEVELING UP DSA SKILLS              
+║  BUILDS ...... GAMES | TOOLS | SOFTWARE            
+╚═══════════════════════════════════════════╝
 ```
 
 ## SKILL TREE
@@ -32,7 +32,8 @@ DSA       ████████░░░░░░░░░░░░  LVL 40  
 [ ] MAIN QUEST   Master Data Structures & Algorithms
 [ ] SIDE QUEST   Solve 300 LeetCode problems
 [ ] SIDE QUEST   Release more tools and software
-[ ] BOSS FIGHT   Publish the next project
+[ ] BOSS FIGHT   Publish the next big Project
+[ ] BOSS FIGHT   Crack top product-based Company
 ```
 
 ## LEETCODE

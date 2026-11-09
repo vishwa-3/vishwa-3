@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=900&pause=100&color=BF00FF&background=121212FF&center=true&vCenter=true&repeat=true&width=700&height=110&lines=%23%40+%2A%26+%25%21;V%21+X%23+W%40;VI+X%24+WA;VI+XX+WA" alt="VI XX WA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=900&pause=100&color=BF00FF&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=110&lines=%23%40+%2A%26+%25%21;V%21+X%23+W%40;VI+X%24+WA;VI+XX+WA" alt="VI XX WA" />
 </div>
 
 ## PLAYER INFO
